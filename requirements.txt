@@ -1,0 +1,11 @@
+imutils==0.5.4
+matplotlib==3.3.4
+Moildev==3.1.0
+numpy==1.19.5
+opencv_contrib_python==4.5.3.56
+PyQt5==5.15.6
+PyQt6==6.3.0
+pytesseract==0.3.8
+PyYAML==6.0
+Shapely==1.8.1.post1
+sympy==1.10.1
